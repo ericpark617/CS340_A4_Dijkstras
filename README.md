@@ -1,4 +1,4 @@
-# CS340 Asignment 5: Dijkstra's Algorithm
+# CS340 Asignment 4: Dijkstra's Algorithm
 
 This program takes a representation of a graph using distances between vertices and calculates the minimum cost from the source to each vertex in the graph.
 
