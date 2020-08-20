@@ -1,0 +1,14 @@
+Script started on 2020-08-19 21:05:42-0600
+]0;ericpark617@erics-laptop: ~/Downloads/CS340_A4_Dijkstras-master/Code_Files[01;32mericpark617@erics-laptop[00m:[01;34m~/Downloads/CS340_A4_Dijkstras-master/Code_Files[00m$ a.[K[K/.a.[K[K[K[K./a.o ut
+Input distances from source to each vertex separated by spaces (0 for no connection). 0 2 3 0
+Input distances from source to each vertex separated by spaces (0 for no connection). 0 0 1 4
+Input distances from source to each vertex separated by spaces (0 for no connection). 0 0 0 2
+Input distances from source to each vertex separated by spaces (0 for no connection). 0 0 0 0
+Cost from source A to A: 0
+Cost from source A to B: 2
+Cost from source A to C: 3
+Cost from source A to D: 5
+]0;ericpark617@erics-laptop: ~/Downloads/CS340_A4_Dijkstras-master/Code_Files[01;32mericpark617@erics-laptop[00m:[01;34m~/Downloads/CS340_A4_Dijkstras-master/Code_Files[00m$ exit
+exit
+
+Script done on 2020-08-19 21:06:07-0600
